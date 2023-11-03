@@ -1,0 +1,59 @@
+
+linux architechture
+ 
+linux commands
+
+users and group management
+
+package installation
+
+permissions
+
+web server configuraation
+
+ linux commands
+
+linux commands are three types
+  file mangement commands
+  system information commands
+  compressed commands /application commands
+file mangagement comands
+   create, mangage, 
+touch:
+  it is used to create empty file / files
+mkdir:
+  it is used to create empty directory or directories
+ls:
+  check lis of files and directoris
+mv:
+  to move or rename file or directory
+copy:
+  to copy file or directories
+rm:
+  to remove empty file
+rm-r:
+  to remove file
+rm-r-f
+  remove file or directiory
+cd:
+  change to root directory
+cd directory name:
+  to change to another file using direcvtory name
+who am i:
+   to know the login user name
+cal:
+ to show the currnt month calender
+date:
+ to show date nd time:
+vi/vim/nano/gedit:
+ to edit the file
+cat:
+ to open file
+cat>file name:
+ to over write the file
+cat>>file name:
+ to adopt a file
+man command:
+ to know about the command
+clear:
+ to clear the screen  
